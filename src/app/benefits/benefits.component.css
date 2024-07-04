@@ -1,0 +1,19 @@
+section {
+    padding: 2rem;
+  }
+  
+  h2 {
+    color: #3f51b5;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    background: #f4f4f4;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+  }
+  
